@@ -1,0 +1,4 @@
+pizza_toppings = ["cheese", "pepperoni", "mushrooms"]
+for topping in pizza_toppings:
+    message = f'i would like {topping} on my pizza'
+    print(message) 
